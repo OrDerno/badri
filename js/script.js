@@ -2,11 +2,11 @@
 $(document).ready(function () {
     $(window).on('load',function () {
         $('.load').fadeOut();
-    },fast)
+    },7000)
 	/*
     setTimeout(function () {
 		$('.load').fadeOut();
-	},10000);
+	},7000);
 	*/
 });
 /*------------X-------------X-----------*/
